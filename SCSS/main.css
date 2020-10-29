@@ -1,7 +1,7 @@
 .char-highlight {
   font-weight: bold;
   font-size: 1.4rem;
-  color: #521751; }
+  color: black; }
 
 html {
   font-size: 94.75%; }
@@ -22,8 +22,8 @@ body {
   box-sizing: border-box; }
 
 .sass-introduction {
-  border: 0.05rem solid #521751;
-  background: #f7e1f6;
+  border: 0.05rem solid black;
+  background: #b8b8b8;
   padding: 2rem;
   text-align: center;
   box-shadow: 0.2rem 0.2rem 0.1rem #ccc;
@@ -34,8 +34,8 @@ body {
   margin: 0; }
 
 .sass-details {
-  border: 0.05rem solid #521751;
-  background: #f7e1f6;
+  border: 0.05rem solid black;
+  background: #b8b8b8;
   padding: 1rem;
   text-align: center;
   margin: 2rem 0;
@@ -43,7 +43,7 @@ body {
   box-sizing: border-box; }
 
 .section-header {
-  border-bottom: 0.05rem solid #521751; }
+  border-bottom: 0.05rem solid black; }
 
 .section-header h1 {
   margin: 0 0 1rem 0; }
@@ -62,10 +62,10 @@ body {
     background: white; }
   .documentation-links .documentation-link {
     text-decoration: none;
-    color: #521751;
+    color: black;
     display: block;
     padding: 0.2rem;
-    border: 0.05rem solid #521751; }
+    border: 0.05rem solid black; }
   .documentation-links .documentation-link:hover,
   .documentation-links .documentation-link:active {
     color: white;
