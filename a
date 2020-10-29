@@ -1,0 +1,65 @@
+[33mcommit 8195d2d1b1c2cfb74a000b9a9f4305f91045fc0a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Thu Oct 29 17:02:12 2020 +0100
+
+    i want to revert
+
+[33mcommit 8a26fc3559b470b095b852b6536a6efd782e3078[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Thu Oct 29 13:08:17 2020 +0100
+
+    SCSS
+
+[33mcommit 36418b5cc24d70eeab0393a4cbec5e27139487ad[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Wed Oct 28 01:16:54 2020 +0100
+
+    backface-visibility
+
+[33mcommit ced0c9139bda2c2431e835f69fd08a285d3331bf[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Wed Oct 28 01:11:37 2020 +0100
+
+    rotating container
+
+[33mcommit 3454a0b7f6a8f467424fe7ccae8f762d9507c718[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Wed Oct 28 01:07:04 2020 +0100
+
+    3d transform
+
+[33mcommit fe9859b37441af6209dd9ebbec170e6540440727[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Wed Oct 28 00:58:18 2020 +0100
+
+    angle and rotation
+
+[33mcommit 222b4709e8ed9b0e8d0fe0753cd9e8a1d108850f[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Wed Oct 28 00:37:32 2020 +0100
+
+    perspective and rotate
+
+[33mcommit a626f2ecede8158fdf4f860a6f866e1ce100b0f8[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Wed Oct 28 00:28:48 2020 +0100
+
+    adding new folder and code
+
+[33mcommit 5fb12b26089ec065a15495b838007e5b167ccea3[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Tue Oct 27 23:03:30 2020 +0100
+
+    row dense
+
+[33mcommit 417953ab7041ff155b21de5b2b31f279e84366f0[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Tue Oct 27 22:50:53 2020 +0100
+
+    grid-template-columns:auto-fill and auto fit
+
+[33mcommit 7a5980b6aaf0495eb4ca2a265e67e48ba3eb3a00[m
+Author: Nebojsa Nikolic <nebojsanikolic12350@yahoo.com>
+Date:   Tue Oct 27 22:03:12 2020 +0100
+
+    start
